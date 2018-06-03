@@ -32,16 +32,48 @@ def output_to_file(filename, sequence, numbering, indices):
         lseq += " "
     list_sequence = list(split_by_n(sequence, div))
     list_numbering = list(split_by_n(numbering, div))
+    new_line_indices = []
+    new_line_indices1 = []
+    lseq_new = str(lseq)
+    lseq_new1 = str(lseq)
 
     for i in indices:
-        ind, templ = i[0], i[1]
-        temp = lseq[0:ind] + templ + lseq[ind + 22:]
-        lseq = temp
+        if (indices.index(i) > 0) and (i[0] - indices[indices.index(i)-1][0] > 14):
+            ind, templ = i[0], i[1]
+            temp = lseq[0:ind] + templ + lseq[ind + 22:]
+            lseq = temp
+        elif indices.index(i) == 0:
+            ind, templ = i[0], i[1]
+            temp = lseq[0:ind] + templ + lseq[ind + 22:]
+            lseq = temp
+        else:
+            new_line_indices.append(i)
+
+    if len(new_line_indices) != 0:
+        for i in new_line_indices:
+            if (new_line_indices.index(i) > 0) and (i[0] - new_line_indices[new_line_indices.index(i)-1][0] > 14):
+                ind, templ = i[0], i[1]
+                temp = lseq_new[0:ind] + templ + lseq_new[ind + 22:]
+                lseq_new = temp
+            elif new_line_indices.index(i) == 0:
+                ind, templ = i[0], i[1]
+                temp = lseq_new[0:ind] + templ + lseq_new[ind + 22:]
+                lseq_new = temp
+            else:
+                new_line_indices1.append(i)
+        if len(new_line_indices1) != 0:
+            ind, templ = i[0], i[1]
+            temp = lseq[0:ind] + templ + lseq[ind + 22:]
+            lseq = temp
+
     list_lseq = list(split_by_n(lseq, div))
+    list_lseq_new = list(split_by_n(lseq_new, div))
     for i in range(len(list_sequence)):
         f.write(list_numbering[i] + "\n")
         f.write(list_sequence[i] + "\n")
         f.write(list_lseq[i] + "\n")
+        if len(new_line_indices) != 0:
+            f.write(list_lseq_new[i] + "\n")
         f.write("\n")
     f.close()
 
@@ -58,7 +90,7 @@ def run_coiled_coils(filename):
 
 
 def check_seq(coiled_coils, index):
-    # return True
+    return True
     if coiled_coils == "":
         return True
     for i in range(index, index + 14):
@@ -79,7 +111,7 @@ def process_file(filename, test=['I', 'L', 'M', 'V']):
     f.close()
 
     coiled_coils = run_coiled_coils(filename)
-    print(coiled_coils)
+    #print(coiled_coils)
 
     for index in range(len(a_string) - 22):
         if a_string[index] in test and a_string[index + 7] in test and \
@@ -92,7 +124,8 @@ def process_file(filename, test=['I', 'L', 'M', 'V']):
 
 
 output, indices = process_file(sys.argv[1])
-print(indices)
+for ind in indices:
+    print(ind)
 # print(get_numbering(len(output)))
 # print(output)
 size = get_numbering(len(output))

@@ -1,6 +1,6 @@
 1--------10--------20--------30--------40--------50--------60--------70----
 MYYEYLTVGIILFILGVLGIVLNRSNLIIMLMSIELMLLAISFLFLINSVVIDNLIGQIFTILILTVAAAESAIG
-                                                                           
+M------V------L----I------L--M------M------L------V                        
 
 ----80--------90--------100--------
 LAILVAYYRVRGTIAVRSLNLLRG

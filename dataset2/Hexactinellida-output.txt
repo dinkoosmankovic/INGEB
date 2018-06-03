@@ -1,0 +1,176 @@
+>SYMNU
+MTHELISTTSTLILLISIYSILLNFRNLIILLITIEIMLLALCLILSTFSQTLLLTLSTIIILQILTIAAAETAIGLSILITYYRIRGTISIKSLSLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHELISTTSTLILLISIYSILLNFRNLIILLITIEIMLLALCLILSTFSQTLLLTLSTIIILQILTIAAAETAI
+             L------I------L------I   L------L------L------I               
+               I------L------I------I                L------I------I------I
+                    I------L------I------L                                 
+                      L------I------I------L                               
+                               L------L------L------L                      
+
+----80--------90--------100--------109-
+GLSILITYYRIRGTISIKSLSLLRG
+                          
+                          
+                          
+                          
+                          
+
+>IPHPA
+MTHELILTTSIISIIISIASIIINFRNLIIVLITIEIILLTLCLILSSNTQTQLLTTNIIFIILILTIAASETAIILSVLITYYRIRGTITVKSLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHELILTTSIISIIISIASIIINFRNLIIVLITIEIILLTLCLILSSNTQTQLLTTNIIFIILILTIAASETAI
+      L------I------I------L                                               
+             I------I------L------I                                        
+               I------I------I------I                                      
+                    I------L------I------L                                 
+                      I------I------I------L                               
+
+----80--------90--------100--------109-
+ILSVLITYYRIRGTITVKSLNLLRG
+                          
+                          
+                          
+                          
+                          
+
+>APHVA
+MNPTSITGTAIIVVRIRILRIITNYQNIIKLLLTIELLLLTISLLLSTQIHSLLFTLNNIIIVQILTIAAAETATGLRIITAYYRTRGTIRIKSLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MNPTSITGTAIIVVRIRILRIITNYQNIIKLLLTIELLLLTISLLLSTQIHSLLFTLNNIIIVQILTIAAAETAT
+             V------I------I------I   L------L------L------I               
+                    I------I------I------I                                 
+                               L------L------L------L                      
+
+----80--------90--------100--------109-
+GLRIITAYYRTRGTIRIKSLNLLRG
+                          
+                          
+                          
+
+>OOPMI
+MTHELISTTSILMMLMSMCSMLLNFRNLMILLMTMEMMLLALCLMLSTHTHTLLLTLSTMMILQMLTIAAAETAMGLSMLMTYYRTRGTMTLKSLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHELISTTSILMMLMSMCSMLLNFRNLMILLMTMEMMLLALCLMLSTHTHTLLLTLSTMMILQMLTIAAAETAM
+             M------M------L------M   L------L------L------M               
+               M------L------I------M                L------M------I------M
+                    M------L------M------L                                 
+                      L------I------M------L                               
+                               L------L------L------L                      
+
+----80--------90--------100--------109-
+GLSMLMTYYRTRGTMTLKSLNLLRG
+                          
+                          
+                          
+                          
+                          
+
+>LOPSP
+MNINIIIITRLRILTISITRLIINFRNLVIILLTFELILLTIILLFATTSICTYCNLNTIFIVLIFSVAASETAIRLIILTTHYRIRGRIAIKTLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MNINIIIITRLRILTISITRLIINFRNLVIILLTFELILLTIILLFATTSICTYCNLNTIFIVLIFSVAASETAI
+      I------L------L------L I------L------L------I                        
+               I------I------I------L                                      
+                      I------I------L------L                               
+
+----80--------90--------100--------109-
+RLIILTTHYRIRGRIAIKTLNLLRG
+                          
+                          
+                          
+
+>TABsp
+MNINITIITSISILTISITSLIVNFRNIIIVLLTFELILLSIIMLFASTSIQTSSNLNTVFIALILSIAASETATGLTILITHYRIRGSISIKILNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MNINITIITSISILTISITSLIVNFRNIIIVLLTFELILLSIIMLFASTSIQTSSNLNTVFIALILSIAASETAT
+      I------L------L------I I------L------M------I                        
+               I------V------I------L                                      
+                      V------I------L------M                               
+
+----80--------90--------100--------109-
+GLTILITHYRIRGSISIKILNLLRG
+                          
+                          
+                          
+
+>Rosell
+MTHELISITSILTILISLYGILINFRNLIIILITIEIILLALCLILSTYTQSLLLTLSTIIILQILTIAAAETAIGLSILITYYRIRGTISLKSLSLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHELISITSILTILISLYGILINFRNLIIILITIEIILLALCLILSTYTQSLLLTLSTIIILQILTIAAAETAI
+M------I------L------LI------I------I------L         L------I------I------I
+       I------L------L------I  L------L------L------L                      
+             I------I------L------I   L------L------L------I               
+               I------I------I------I                                      
+                    I------L------I------L                                 
+
+----80--------90--------100--------109-
+GLSILITYYRIRGTISLKSLSLLRG
+                          
+                          
+                          
+                          
+                          
+
+>Herfa
+MTHTIIETTSILLLIISISSILLNFRNLIIFLITIEIIILTLCLALSTHTHEHYTISIILILKILTIAAAETALALSILTTYYRTRGTISIKSLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHTIIETTSILLLIISISSILLNFRNLIIFLITIEIIILTLCLALSTHTHEHYTISIILILKILTIAAAETALA
+             L------I------L------I                                        
+               I------L------I------I                                      
+                    I------L------I------L                                 
+                      L------I------I------L                               
+
+----80--------90--------100--------109
+LSILTTYYRTRGTISIKSLNLLRG
+                         
+                         
+                         
+                         
+
+>Euret
+MNNTKITLLAILIISISTSSLLINRRNLVTILLTIELLIITLCLLLSTYTHSLTLTISVILIVLILTIAASETAIGLSIIVAYYRIRGTITIKSFNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MNNTKITLLAILIISISTSSLLINRRNLVTILLTIELLIITLCLLLSTYTHSLTLTISVILIVLILTIAASETAI
+             I------L------L------I   I------L------L------I               
+                    L------L------I------L                                 
+                               L------I------L------L                      
+
+----80--------90--------100--------109-
+GLSIIVAYYRIRGTITIKSFNLLRG
+                          
+                          
+                          
+
+>APHBE
+MNPITITSTAIIIISISILSIITNYQNIVKLLLTIELLLLTISLLLSIQTYFLYFTLNNIIIIQILTIAAAETATGLSIITAYYRTRGTISIKSLNLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MNPITITSTAIIIISISILSIITNYQNIVKLLLTIELLLLTISLLLSIQTYFLYFTLNNIIIIQILTIAAAETAT
+             I------I------I------I   L------L------L------I               
+                    I------I------I------I                                 
+                               L------L------L------L                      
+
+----80--------90--------100--------109-
+GLSIITAYYRTRGTISIKSLNLLRG
+                          
+                          
+                          
+
+>VAZPO
+MTHELISTTSILIILISIYSILINFRNLIIILITIEIILLALCLILSTYTQTLLLTLSTILILQILTIAAAETAIGLSILIAYYRIRGTITLKSLSLLRG
+1--------10--------20--------30--------40--------50--------60--------70----
+MTHELISTTSILIILISIYSILINFRNLIIILITIEIILLALCLILSTYTQTLLLTLSTILILQILTIAAAETAI
+             I------I------L------I   L------L------L------I               
+               I------I------I------I                L------L------I------I
+                    I------L------I------L                                 
+                      I------I------I------L                               
+                               L------L------L------L                      
+
+----80--------90--------100--------109-
+GLSILIAYYRIRGTITLKSLSLLRG
+                          
+                          
+                          
+                          
+                          
+
