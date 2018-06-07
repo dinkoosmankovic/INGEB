@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy import stats
 from fitter import Fitter
+from scipy.stats import tukeylambda
 import scipy.stats
 
 def normalize(v):
@@ -51,8 +52,12 @@ for av in allele_variants:
     #generate_histogram(av, allele_variants[av], array, f._get_xmin(), f._get_xmax(), )
     f.summary(Nbest=1)
     output[av] = f.get_best()
+    print(output[av])
     plt.savefig("img/"+av+".png")
     print("Finished!")
-    #exit()
+    a,b,c = output[av]['tukeylambda']
+    broj = tukeylambda.rvs(a,b,c, size=1)
+    print('random number %d' % int(broj))
+    exit()
 
 print(output)
